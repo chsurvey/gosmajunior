@@ -1,0 +1,7 @@
+discord.py==0.16.12
+import asyncio
+import discord
+import discord.utils
+import datetime
+from parser import*
+from discord.ext import commands
