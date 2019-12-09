@@ -1,6 +1,5 @@
 import asyncio
 import discord
-import os
 
 client = discord.Client()
 
@@ -32,5 +31,4 @@ async def on_message(message):
         
     if message.channel.is_private
         await client.send_message(getchannel("650619509303934977"),message.content)
-access_token=os.environ["BOT_TOKEN"]
-client.run(access_token)
+client.run(NTQzNTMwMTg1NDQ2NjUzOTcz.XewwVA.A4g5bxfEO0-K3YVc_yLMloO0cOg)
